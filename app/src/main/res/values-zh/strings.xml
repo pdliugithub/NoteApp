@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">笔记</string>
+    <string name="action_settings">设置</string>
+    <string name="action_search">搜索</string>
+    <string name="add_note">创建笔记</string>
+
+    <!-- Activity title start -->
+    <string name="title_main_activity">笔记</string>
+    <string name="title_edit_note_activity">更新笔记</string>
+    <!-- Activity title end -->
+
+    <!-- Broadcast -->
+    <string name="error_tip">ERROR:您重复注册相同的广播</string>
+    <string name="toast_empty_tip">请键入提示信息</string>
+</resources>
